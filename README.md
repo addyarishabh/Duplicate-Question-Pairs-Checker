@@ -77,6 +77,12 @@ XGB (Extreme Gradient Boosting) classifier
 
 Streamlit
 
+## Best Model Found:
+
+RandomForest Classifier (Accuracy : 76.17%
+
+## Screenshots of some sample results:
+
 ![login](https://github.com/addyarishabh/Duplicate-Question-Pairs-Checker/blob/93050aa407c0e3e77053cce058c11b27fe3f8f7c/Duplicate_image.png?raw=true)
 
 
