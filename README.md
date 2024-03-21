@@ -16,6 +16,10 @@ The project goal is to develop a machine learning-based system utilizing Natural
 
 https://www.kaggle.com/datasets/quora/question-pairs-dataset
 
+## Project Workflow diagram:
+
+![login](https://github.com/addyarishabh/Duplicate-Question-Pairs-Checker/blob/ae32323706eea5128acd101acadd88f55202d361/workflow_duplicate.png?raw=True)
+
 ## Dataset Description:
 
 In the given dataset we have six features/ columns :
