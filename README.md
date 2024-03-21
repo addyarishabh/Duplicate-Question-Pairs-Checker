@@ -59,6 +59,21 @@ fuzzywazzy
 
 gensim
 
+## Classification Models Used:
+
+RandomForest Classifier 
+
+SVC (Support Vector Classifier)
+
+Logistics Regression
+
+DecisionTreeClassifier
+
+K-NN( K Nearest Neighbors Classfier)
+
+XGB (Extreme Gradient Boosting) classifier
+
+
 
 ![login](https://github.com/addyarishabh/Duplicate-Question-Pairs-Checker/blob/93050aa407c0e3e77053cce058c11b27fe3f8f7c/Duplicate_image.png?raw=true)
 
