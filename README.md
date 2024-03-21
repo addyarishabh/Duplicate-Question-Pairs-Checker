@@ -16,6 +16,21 @@ The project goal is to develop a machine learning-based system utilizing Natural
 
 https://www.kaggle.com/datasets/quora/question-pairs-dataset
 
+## Dataset Description:
+
+In the given dataset we have six features/ columns :
+
+1) id:
+   Serial number for every record.
+2) qid1:
+   Question ID 1 represent first question ID of a serial number(id).
+3) qid2:
+   Question ID 2 represent second question ID of the same serial number.
+4) question1:
+   Question 1 define the first question of a serial number(id).
+5) question2:
+   QUestion 2 define the second question of a serial number(id).
+
 
 ![login](https://github.com/addyarishabh/Duplicate-Question-Pairs-Checker/blob/93050aa407c0e3e77053cce058c11b27fe3f8f7c/Duplicate_image.png?raw=true)
 
