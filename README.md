@@ -30,6 +30,8 @@ In the given dataset we have six features/ columns :
    Question 1 define the first question of a serial number(id).
 5) question2:
    QUestion 2 define the second question of a serial number(id).
+6) is_duplicate:
+   0 means 'Non duplicate' and 1 means 'Duplicate'.
 
 
 ![login](https://github.com/addyarishabh/Duplicate-Question-Pairs-Checker/blob/93050aa407c0e3e77053cce058c11b27fe3f8f7c/Duplicate_image.png?raw=true)
