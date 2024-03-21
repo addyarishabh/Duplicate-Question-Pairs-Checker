@@ -40,10 +40,24 @@ Visual Studio Code, Jupyter Notebook IDE
 ## Libraries Used:
 
 Pandas
+
 Numpy
+
 Matplotlib 
+
 Seaborn
 
+Regular Expression
+
+BeautifulSoup
+
+NLTK (Natural Language Toolkit)
+
+Scikit Learn
+
+fuzzywazzy
+
+gensim
 
 
 ![login](https://github.com/addyarishabh/Duplicate-Question-Pairs-Checker/blob/93050aa407c0e3e77053cce058c11b27fe3f8f7c/Duplicate_image.png?raw=true)
