@@ -1,5 +1,4 @@
-# Duplicate-Question-Pairs-Checker
-##### Duplicate Question Pairs Identificatin using NLP and Machine Learning Approach
+#  Intelligent Question Pair Deduplication: An NLP-Based Approach for Enhancing Search Efficiency and Content Quality
 
 ![login](https://github.com/addyarishabh/Duplicate-Question-Pairs-Checker/blob/8dc0acfdca557f64d5916484a830b41262fa0b1d/Quora%20image.png?raw=true)
 
